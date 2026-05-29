@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "productdarse",
+        "uuid": 214192,
+        "checksum": "eryz2c"
+    },
+    "settings": {
+        "retries": 1,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
